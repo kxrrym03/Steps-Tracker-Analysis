@@ -33,13 +33,13 @@ Feature Selection: Distance and Active Minutes
 
 Train-Test Split: 80% training, 20% testing
 
-Evaluation Metrics:
+## Evaluation Metrics:
 
 Mean Squared Error (MSE)
 
 R-squared Score (R²)
 
-Results
+## Results
 
 Mean Squared Error (MSE): ~2.42e-30
 
