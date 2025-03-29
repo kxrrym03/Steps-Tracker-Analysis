@@ -5,9 +5,9 @@
 
 This project aims to predict the number of calories burned using linear regression based on features such as distance traveled and active minutes. The model is trained using a dataset that tracks step count, distance, active minutes, and calories burned.
 
-Dataset
+## Dataset
 
-The dataset includes:
+## The dataset includes:
 
 Steps: The number of steps taken.
 
@@ -17,13 +17,13 @@ Active Minutes: The duration of active movement.
 
 Calories Burned: The target variable to be predicted.
 
-Project Structure
+## Project Structure
 
 Steps Tracker.ipynb - Jupyter Notebook containing data preprocessing, exploratory data analysis (EDA), model training, and evaluation.
 
 steps_tracker_dataset.csv - The dataset used for training and testing.
 
-Model & Methodology
+## Model & Methodology
 
 Linear Regression
 
