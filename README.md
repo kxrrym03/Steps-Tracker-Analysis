@@ -1,7 +1,7 @@
 # Steps-Tracker-Analysis
 ## Steps Tracker - Predicting Calories Burned
 
-Overview
+## Overview
 
 This project aims to predict the number of calories burned using linear regression based on features such as distance traveled and active minutes. The model is trained using a dataset that tracks step count, distance, active minutes, and calories burned.
 
