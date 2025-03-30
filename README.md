@@ -25,7 +25,7 @@ steps_tracker_dataset.csv - The dataset used for training and testing.
 
 ## Model & Methodology
 
-Linear Regression
+# Linear Regression
 
 A Linear Regression model was used to predict the calories burned. The model was trained using:
 
@@ -33,7 +33,8 @@ Feature Selection: Distance and Active Minutes
 
 Train-Test Split: 80% training, 20% testing
 
-Support Vector Machine
+#Support Vector Machine
+
 Converted mood categories to numerical values using LabelEncoder:
 
 energetic: 0
@@ -47,6 +48,7 @@ stressed: 3
 tired: 4
 
 Scaled features using StandardScaler for better model performance
+
 Used scikit-learn's SVC (Support Vector Classification) with a linear kernel
 
 Split data into 80% training and 20% testing sets
@@ -72,7 +74,7 @@ Precision: 1.0 for all classes
 
 Recall: 1.0 for all classes
 
-Dependencies
+## Dependencies
 Python 3.x
 
 pandas
