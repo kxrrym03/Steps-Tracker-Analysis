@@ -33,7 +33,7 @@ Feature Selection: Distance and Active Minutes
 
 Train-Test Split: 80% training, 20% testing
 
-#Support Vector Machine
+# Support Vector Machine
 
 Converted mood categories to numerical values using LabelEncoder:
 
