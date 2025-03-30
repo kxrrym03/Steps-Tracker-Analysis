@@ -75,6 +75,7 @@ Precision: 1.0 for all classes
 Recall: 1.0 for all classes
 
 ## Dependencies
+
 Python 3.x
 
 pandas
@@ -87,8 +88,8 @@ matplotlib
 
 seaborn
 
-Author
+## Author
 Kerry
 
-License
+## License
 This project is open source and available under the MIT License.
